@@ -41,7 +41,7 @@ The dashboard includes the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twitter-analytics-dashboard.git
+   git clone https://github.com/VaishnaviF/twitter-analytics-dashboard.git
 
 ## Dashboard
 
