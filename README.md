@@ -37,12 +37,6 @@ The dashboard includes the following:
 4. Gauges for retweets and likes.
 5. Interactive filters for data segmentation by month or other criteria.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VaishnaviF/twitter-analytics-dashboard.git
-
 ## Dashboard
 
 ![image](https://github.com/user-attachments/assets/2f9fb1e6-25de-4837-a89a-2f83301f4ba8)
