@@ -45,4 +45,4 @@ The dashboard includes the following:
 
 ## Dashboard
 
-"C:\Users\VAISHNAVI FARKANDE\Pictures\Screenshots\Screenshot 2025-01-20 115735.png"
+![image](https://github.com/user-attachments/assets/2f9fb1e6-25de-4837-a89a-2f83301f4ba8)
